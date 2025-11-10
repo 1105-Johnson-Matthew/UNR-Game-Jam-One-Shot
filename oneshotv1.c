@@ -772,3 +772,4 @@ void DrawGame(void)
         DrawText("Nathan Ly", w/2 - 140, h/2 + 40, 50, WHITE);
     }
     else if (screen == FAIL) DrawText("FAILURE!", w/2 - 250, h/2 - 50, 100, RED);
+}
